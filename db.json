@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "firstname": "Yogesh",
+      "lastname": "Borole",
+      "birthdate": "1998-06-11",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Capgemini",
+      "jobExperience": 1.8,
+      "salary": 400000,
+      "profile": "Profile-03.jpg",
+      "id": 1
+    },
+    {
+      "firstname": "Ramesh",
+      "lastname": "Yadmik",
+      "birthdate": "2023-06-16",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "ddd",
+      "jobExperience": "",
+      "salary": "",
+      "profile": "Profile-05.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "abc",
+      "lastname": "def",
+      "birthdate": "2023-06-24",
+      "gender": "m",
+      "company": "",
+      "jobExperience": "",
+      "salary": "",
+      "profile": "Profile-04.jpg",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
